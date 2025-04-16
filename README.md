@@ -43,5 +43,7 @@ Este projeto é pessoal e faz parte do meu processo de aprendizado. Fique à von
 ## 📄 Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+
 ---
 
