@@ -33,11 +33,15 @@ Este projeto é pessoal e faz parte do meu processo de aprendizado. Fique à von
 
 > As alterações neste repositório podem ser frequentes, pois estou constantemente testando e aprendendo com o conteúdo do curso.
 
-## 📫 Contato
+## 📫 Contato   
 
 - 📧 ana.carolina.gui.ramos@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-carolina-guimar%C3%A3es-ramos/)  
 - 💬 [Me chame no Discord](https://discord.com/users/499543712305774593)
 
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ---
 
